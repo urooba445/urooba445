@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Urooba Saleem 👋
 
-<!--
-**urooba445/urooba445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Web Developer | 🎓 ADSE Student
 
-Here are some ideas to get you started:
+I'm an aspiring Web Developer passionate about building responsive, user-friendly and modern websites. I enjoy learning new technologies and improving my development skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* jQuery
+
+**Backend & Database**
+
+* PHP
+* MySQL
+
+**CMS & Tools**
+
+* WordPress
+* Git & GitHub
+* VS Code
+* XAMPP
+* SEO Basics
+
+---
+
+## 🚀 Projects
+
+* 🌐 Community Fridge Website
+* 🏥 CARE Healthcare Website
+* 🛍️ E-commerce Website
+* 📝 WordPress Blog Website
+* 🧮 JavaScript Calculator
+* 🖼️ Image Gallery
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Web Development
+* PHP & MySQL
+* Backend Development
+* Git & GitHub
+
+---
+
+## 🤝 Looking For
+
+I'm currently looking for **internship, junior and part-time opportunities** in Web Development.
+
+---
+
+## 📫 Connect With Me
+
+🔗 **LinkedIn:** [Urooba Saleem](https://www.linkedin.com/in/urooba-saleem-6397b1380/)
+
+💻 **GitHub:** [urooba445](https://github.com/urooba445)
