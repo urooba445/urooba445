@@ -1,64 +1,41 @@
-# Hi, I'm Urooba Saleem 👋
+# Urooba Saleem
 
-### 💻 Aspiring Web Developer | 🎓 ADSE Student
+### Aspiring Web Developer | ADSE Student at Aptech
 
-I'm an aspiring Web Developer passionate about building responsive, user-friendly and modern websites. I enjoy learning new technologies and improving my development skills through hands-on projects.
+I am an aspiring Web Developer currently pursuing an Advanced Diploma in Software Engineering (ADSE) at Aptech Computer Education.
 
----
+I enjoy building responsive, user-friendly websites and improving my development skills through practical projects and continuous learning.
 
-## 🛠️ Skills
+## Skills
 
-**Frontend**
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* jQuery
+**Backend & Database:** PHP, MySQL
 
-**Backend & Database**
+**CMS & Tools:** WordPress, Git, GitHub, VS Code, XAMPP
 
-* PHP
-* MySQL
+**Other:** Responsive Web Design, SEO Basics, UI/UX Principles
 
-**CMS & Tools**
+## Featured Projects
 
-* WordPress
-* Git & GitHub
-* VS Code
-* XAMPP
-* SEO Basics
+- [Community Fridge](https://github.com/urooba445/community-fridge) — Responsive community support website
+- [Food Landing Page](https://github.com/urooba445/food-landing-page) — Modern responsive food website
+- [CodeAlpha Calculator](https://github.com/urooba445/CodeAlpha_Calculator) — Responsive JavaScript calculator
+- [Restaurant Website](https://github.com/urooba445/resturant-site) — Restaurant website built with HTML and CSS
 
----
+## Currently Learning
 
-## 🚀 Projects
+- Advanced Web Development
+- PHP & MySQL
+- Backend Development
+- Git & GitHub
 
-* 🌐 Community Fridge Website
-* 🏥 CARE Healthcare Website
-* 🛍️ E-commerce Website
-* 📝 WordPress Blog Website
-* 🧮 JavaScript Calculator
-* 🖼️ Image Gallery
+## Career Goal
 
----
+Currently seeking internship, junior, and part-time opportunities in Web Development, Frontend Development, and WordPress.
 
-## 📚 Currently Learning
+## Connect
 
-* Advanced Web Development
-* PHP & MySQL
-* Backend Development
-* Git & GitHub
+**LinkedIn:** [Urooba Saleem](https://www.linkedin.com/in/urooba-saleem-6397b1380/)
 
----
-
-## 🤝 Looking For
-
-I'm currently looking for **internship, junior and part-time opportunities** in Web Development.
-
----
-
-## 📫 Connect With Me
-
-🔗 **LinkedIn:** [Urooba Saleem](https://www.linkedin.com/in/urooba-saleem-6397b1380/)
-
-💻 **GitHub:** [urooba445](https://github.com/urooba445)
+**GitHub:** [urooba445](https://github.com/urooba445)
