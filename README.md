@@ -39,3 +39,8 @@ Currently seeking internship, junior, and part-time opportunities in Web Develop
 **LinkedIn:** [Urooba Saleem](https://www.linkedin.com/in/urooba-saleem-6397b1380/)
 
 **GitHub:** [urooba445](https://github.com/urooba445)
+## Portfolio
+
+Visit my personal portfolio:
+
+[View My Portfolio](https://urooba445.github.io/)
